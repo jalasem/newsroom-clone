@@ -3,7 +3,7 @@
 # Building with responsive design
 A clone of [Newsweek.com](https://newsweek.com)
 
-[Demo]()
+[Demo](https://rawcdn.githack.com/jalasem/newsweek-bootstrap/8f3f347118c769c6884a1ec13fd649bbac3bc30d/index.html)
 
 
 # Built With
