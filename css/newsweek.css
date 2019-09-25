@@ -1,0 +1,42 @@
+/* @media screen and (min-width: 768px) {
+  body {
+    font-size: 15px;
+    line-height: 20px;
+  }
+} */
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+a:hover {
+  text-decoration: none;
+  color: inherit;
+}
+
+.top-nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+  padding: 0 2px;
+  line-height: 1;
+  background: #f72211;
+}
+
+/* .top-nav date, .top-nav .action {} */
+
+.top-nav a, .top-nav .date {
+  color: white;
+  margin-bottom: 1rem;
+}
+
+.top-nav .page-title {
+  font-weight: 500;
+  font-size: 5rem;
+}
+
+.top-nav .action {
+  display: flex;
+  align-items: center;
+}
